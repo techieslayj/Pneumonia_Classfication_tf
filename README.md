@@ -1,4 +1,7 @@
 # Pneumonia_Classfication_tf
+
+Project based on Kaggle dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
 Image classification model for Pneumonia positive or negative lung x-rays using Tensorflow
 
 Convolutional Neural Net using RMSprop optimizer and Binary CrossEntropy to classify x-rays.
